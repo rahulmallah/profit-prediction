@@ -1,0 +1,9 @@
+name: Emotion-detection-from-text
+dependencies:
+  - python=3.7
+  - scikit-learn=0.24.2
+ 
+  
+  - pip:
+      - XGBoost
+      - Random Forest
